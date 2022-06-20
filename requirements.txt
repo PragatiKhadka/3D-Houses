@@ -1,0 +1,32 @@
+
+Fiona @ file:///C:/Users/thena/Downloads/Fiona-1.8.21-cp310-cp310-win_amd64.whl
+GDAL @ file:///C:/Users/thena/Downloads/GDAL-3.4.3-cp310-cp310-win_amd64.whl
+geopandas==0.10.2
+ipykernel==6.13.1
+ipython==8.4.0
+ipython-genutils==0.2.0
+ipywidgets==7.7.0
+jsonlines==1.2.0
+jsonschema==4.6.0
+jupyter==1.0.0
+jupyter-client==7.3.3
+jupyter-console==6.4.3
+jupyter-core==4.10.0
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==1.1.0
+kaleido==0.2.1
+notebook==6.4.11
+plotly==5.8.2
+pygeos==0.12.0
+Pygments==2.12.0
+pyjsparser==2.7.1
+pyparsing==3.0.9
+PyPrind==2.11.3
+pyproj==3.3.1
+pyrsistent==0.18.1
+pyshp==2.3.0
+rasterio @ file:///C:/Users/thena/Downloads/rasterio-1.2.10-cp310-cp310-win_amd64.whl
+requests==2.27.1
+requests-futures==1.0.0
+Shapely==1.8.2
+
