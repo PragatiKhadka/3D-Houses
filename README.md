@@ -21,8 +21,7 @@ In order to run the program, follow these steps:
 9. It will produce a 3D plot of the object in the address if available. Otherwise a proper message will be given. It will also provide the message on which zone the polygon lies.
 
 ### Output  
-Here are two sample pictures of the 3D plot of the building where BeCode is located.  
-![plot1](/images/becode1.png)  
+Here are sample picture of the 3D plot of the building where BeCode is located.  
 ![plot2](/images/becode2.png)  
 
 ### Program flow  
